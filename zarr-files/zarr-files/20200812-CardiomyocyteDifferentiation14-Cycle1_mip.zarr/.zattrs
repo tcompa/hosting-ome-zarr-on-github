@@ -1,0 +1,35 @@
+{
+    "plate": {
+        "acquisitions": [
+            {
+                "id": 0,
+                "name": "20200812-CardiomyocyteDifferentiation14-Cycle1"
+            }
+        ],
+        "columns": [
+            {
+                "name": "03"
+            },
+            {
+                "name": "05"
+            }
+        ],
+        "rows": [
+            {
+                "name": "B"
+            }
+        ],
+        "wells": [
+            {
+                "columnIndex": 0,
+                "path": "B/03",
+                "rowIndex": 0
+            },
+            {
+                "columnIndex": 1,
+                "path": "B/05",
+                "rowIndex": 0
+            }
+        ]
+    }
+}
